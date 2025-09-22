@@ -1,6 +1,6 @@
 <h1>
-  JMeter
   <img src="../imgs/JMeter.png" alt="JMeter Logo" width="50" style="vertical-align:middle">
+  JMeter
 </h1>
 
 ## What is JMeter?
