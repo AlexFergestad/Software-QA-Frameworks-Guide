@@ -1,4 +1,4 @@
-# JMeter ![JMeter Logo](imgs/JMeter.png)
+# JMeter ![JMeter Logo](../imgs/JMeter.png)
 
 ## What is JMeter?
 Apache JMeter is an open-source tool for performance testing and load testing.
