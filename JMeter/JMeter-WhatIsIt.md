@@ -1,7 +1,4 @@
-<h1>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Apache_JMeter_logo.svg" alt="JMeter Logo" width="50" style="vertical-align:middle">
-  JMeter
-</h1>
+# JMeter ![JMeter Logo](https://upload.wikimedia.org/wikipedia/commons/4/41/Apache_JMeter_logo.png)
 
 ## What is JMeter?
 Apache JMeter is an open-source tool for performance testing and load testing.
