@@ -1,4 +1,7 @@
-# JMeter ![JMeter Logo](../imgs/JMeter.png)
+<h1>
+  <img src="../imgs/JMeter.png" alt="JMeter Logo" width="50" style="vertical-align:middle">
+  JMeter
+</h1>
 
 ## What is JMeter?
 Apache JMeter is an open-source tool for performance testing and load testing.
