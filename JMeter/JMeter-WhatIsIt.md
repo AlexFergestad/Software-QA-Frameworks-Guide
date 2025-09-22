@@ -2,6 +2,9 @@
 
 ## What is JMeter?
 Apache JMeter is an open-source tool for performance testing and load testing.
+![JMeter Logo](https://upload.wikimedia.org/wikipedia/commons/4/41/Apache_JMeter_logo.svg)
+
+
 
 ## Why it is used
 - Simulates multiple users to test system performance.
