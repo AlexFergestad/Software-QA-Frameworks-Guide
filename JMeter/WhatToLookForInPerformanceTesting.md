@@ -15,4 +15,19 @@ Are there a lot of different scripts going on? Are they blocking the main thread
 ## Is the network usage being optimized?
 Is the site using a content delivery network so that the images are being sourced from a location that's closest to the client? And, if resources aren't immediately available, is the webpage able to handle that situation? Or, is it blocked? Another aspect of network usage is how many background requests are being made. This can include getting resources, API requests, any of that sort of thing.
 
+## Things to remember:
 
+What does "First Contentful Paint" mean?
+- It means the first time a new page is visible to the user.
+
+What is one way a CDN (Content Delivery Network) can help with performance?
+- By hosting content in various locations to better serve people in different places.
+
+Which performance property can you profile with Chrome Developer Tools?
+- Frames per second, request response time, and time spent running scripts.
+
+How can scripts affect the performance of a web page?
+- By blocking further content loading and making additional network requests.
+
+Tests on WebPageTest can be run on...
+- Real devices in various locations.
