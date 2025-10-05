@@ -32,4 +32,4 @@ How can scripts affect the performance of a web page?
 Tests on WebPageTest can be run on...
 - Real devices in various locations.
 
-Redirects cause issues for web page performance by increasing the total number of network calls.
+Redirects cause issues for web page performance by increasing the total number of network calls. 
