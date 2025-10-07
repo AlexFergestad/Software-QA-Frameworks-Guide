@@ -9,10 +9,12 @@ Apache JMeter is an open-source GUI-based tool used for performance testing and 
 ## Why it is used
 - Simulates multiple users to test system performance.
 - Measures response times, throughput, and error rates.
-- Useful for web apps, APIs, databases, and more.
+- Useful for web apps, APIs, databases, HTTP calls, FTP calls, web sockets, and more.
 
 
 
 ## Notes
 - Open-source and widely supported.
 - Has GUI and CLI options.
+- Also supports the Groovy scripting engine.
+- Supports record and playback.
