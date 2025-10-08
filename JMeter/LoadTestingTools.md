@@ -13,3 +13,6 @@ UI vs Script
 
 Integration with other development tools
 - If you're in a Visual Studio environment, then it makes sense to use the Visual Studio load testing tool that's available. 
+
+Load Testing Tools
+- Gatling - Used
