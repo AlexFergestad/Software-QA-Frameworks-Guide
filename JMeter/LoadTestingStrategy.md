@@ -8,3 +8,17 @@
 - As far as caching solutions, are you using Redis, Kafka? Lots of options there that you need to know about.
 - Are you hosting the service in-house or is it out in the cloud or maybe it's even serverless?
 
+## What to look for
+- Slow APIs ( > 250)
+- Duplicated Calls
+- Call Frequency
+- Calls in correct order
+- What are the APIs that are used the most?
+- What are the APIs that take up the most energy or memory or time in your system and what APIs are the most critical?
+- Which are the ones that you really can't afford to have go down?
+
+## Kinds of Load Tests
+- Session Based - Replicates the actions of an actual user.
+- Stress - Pushes the limits of a service.
+- Soak - Running the tests for a long time. 
+- Benchmark - Quick tests run in a CI pipeline.
