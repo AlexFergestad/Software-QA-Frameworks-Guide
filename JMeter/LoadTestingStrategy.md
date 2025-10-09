@@ -21,4 +21,4 @@
 - Session Based - Replicates the actions of an actual user.
 - Stress - Pushes the limits of a service.
 - Soak - Running the tests for a long time. 
-- Benchmark - Quick tests run in a CI pipeline.
+- Benchmark - Quick tests run in a CI pipeline. 
