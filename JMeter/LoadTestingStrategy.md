@@ -28,3 +28,5 @@
 - Cold Start Issues
 - More memory == more $$$
 - More compute time == more $$$
+
+## Factors for considering Load Testing
