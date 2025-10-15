@@ -30,3 +30,7 @@
 - More compute time == more $$$
 
 ## Factors for considering Load Testing
+- For both client and server, test performance early and often.
+- Make sure the client can adapt to varying network and server conditions.
+- Find the performance limits of your servies.
+- Be confident that your application is ready for the masses.
