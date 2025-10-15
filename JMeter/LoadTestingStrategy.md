@@ -24,3 +24,7 @@
 - Benchmark - Quick tests run in a CI pipeline.
 
 ## Serverless Testing
+- Throttling: Account vs Function
+- Cold Start Issues
+- More memory == more $$$
+- More compute time == more $$$
