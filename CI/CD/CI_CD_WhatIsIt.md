@@ -20,6 +20,16 @@ All builds should have a systematic revision number allowing one to track a part
 
 Over time, CI/CD processes can compile quality metrics for a targeted code base and generate product statistics and trend analysis reports for use as needed.
 
+## Benefits Include:
+
+- Reduced Risk
+- Higher the Confidence
+- Better Communication
+- Better Quality Code
+- Faster time to marker
+- Systematic Versioning
+- Code quality statistics and reports
+
 ## Commonly Used CI Tools
 
 - TeamCity
