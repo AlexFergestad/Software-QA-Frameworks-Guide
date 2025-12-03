@@ -1,8 +1,8 @@
 # CI/CD What is It
 
-## CI/CD is a development practice that requires developers to integrate code into a shared repository several times a day.
+*CI/CD is a development practice that requires developers to integrate code into a shared repository several times a day.
 
-## SO why are these practices becoming so popular these days? What benefits do they provide?
+## Why are these practices becoming so popular these days? What benefits do they provide?
 
 One of the key benefits of CI/CD is that technical problems are detected as early as possible instead of being identified just before a scheduled release.
 
