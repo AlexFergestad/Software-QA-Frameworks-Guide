@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://logos-world.net/wp-content/uploads/2023/12/Jenkins-Emblem.png" alt="Jenkins Logo" width="50" style="vertical-align:middle">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/jenkins-1-logo-png-transparent.png" alt="Jenkins Logo" width="50" style="vertical-align:middle">
   Jenkins
 </h1>
 
