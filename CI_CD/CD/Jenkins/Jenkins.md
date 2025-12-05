@@ -20,6 +20,6 @@ Slave instances are Java executables running on remote machines. Slaves accept r
 
 ## To Run Jenkins on this Computer:
 
-Do: cd C:\Users\Alex\OneDrive\Desktop\Software-Quality-AllYouNeedToKnow\CI_CD\CD\Jenkins
+Type: cd C:\Users\Alex\OneDrive\Desktop\Software-Quality-AllYouNeedToKnow\CI_CD\CD\Jenkins
 >> java -jar jenkins.war --httpPort=8080
 
