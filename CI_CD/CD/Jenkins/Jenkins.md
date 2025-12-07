@@ -23,4 +23,7 @@ Slave instances are Java executables running on remote machines. Slaves accept r
 Type: cd C:Tools
 >> java -jar jenkins.war --httpPort=8080
 
-## Creating A New Job
+## Additional Info
+
+- Jenkins uses a Distributed Architecture
+- The Master in Jenkins does not monitor slave instances
