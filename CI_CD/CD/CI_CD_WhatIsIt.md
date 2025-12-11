@@ -8,7 +8,7 @@ One of the key benefits of CI/CD is that technical problems are detected as earl
 
 If code is built just before the release, we run a higher risk of experiencing last-minute failures or issues.
 
-By frequently integrating changes from different teams and building an integrated code base on a regular basis we reduce risk.
+By frequently integrating changes from different teams and building an integrated code base on a regular basis, we reduce risk.
 
 Effective practices and processes for building software increases team confidence in the integrity of the product.
 
