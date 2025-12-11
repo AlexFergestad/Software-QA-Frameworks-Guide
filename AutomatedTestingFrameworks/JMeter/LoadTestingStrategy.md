@@ -9,7 +9,7 @@
 - Are you hosting the service in-house or is it out in the cloud or maybe it's even serverless?
 
 ## What to look for
-- Slow APIs ( > 250)
+- Slow APIs (> 250)
 - Duplicated Calls
 - Call Frequency
 - Calls in correct order
