@@ -68,4 +68,4 @@ Now, click "Apply" and "Save".
 
 Once finished, let us build it by clicking "Build Now".
 
-*A blue indicator means that the build result is stable. Let us check the console to verify the build result.
+*A blue indicator means that the build result is stable. You can check the console to verify the build result.
