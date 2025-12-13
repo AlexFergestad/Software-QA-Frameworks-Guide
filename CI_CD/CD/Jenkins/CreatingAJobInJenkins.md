@@ -5,7 +5,6 @@
 ## General
 Clicking on the "General" tab we see a text field where we can provide a description of the job.
 
-
 We can type something like "This is a test job." Then we have a few configurations options which can be selected based on our needs. Some of these include:
 
 - "Discard old builds" - Select this if you wish to set a limit on the number of builds to keep, up to a certain number of days or up to a specific build.
