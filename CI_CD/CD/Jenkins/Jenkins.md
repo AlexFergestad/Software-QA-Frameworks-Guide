@@ -18,7 +18,7 @@ Jenkins uses a master/slave architecture to manage distributed builds. The main 
 
 Slave instances are Java executables running on remote machines. Slaves accept requests from the master instance, execute specific jobs, and report build statuses and results back to the master. Slaves can run on different types of operating systems. 
 
-## To Run Jenkins on this Computer:
+## To Run Jenkins on this Computer, Run these Commands:
 
 Type: cd C:Tools
 >> java -jar jenkins.war --httpPort=8080
