@@ -37,7 +37,7 @@ The Build Environment page includes the following configuration options:
 - "Inspect build log…" - Select this if you want to inspect a Gradle build log.
 - "With Ant" - Select this to build the environment using Ant.
 
-More options are configurable with additional plugins.
+More options are configurable with more plugins.
 
 
 ## Build
