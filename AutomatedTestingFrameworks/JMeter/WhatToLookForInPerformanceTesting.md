@@ -29,7 +29,7 @@ Which performance property can you profile with Chrome Developer Tools?
 How can scripts affect the performance of a web page?
 - By blocking further content loading and making additional network requests.
 
-Tests on WebPageTest can be run on...
+Tests on WebPageTest can be run on:
 - Real devices in various locations.
 
 Redirects cause issues for web page performance by increasing the total number of network calls. 
