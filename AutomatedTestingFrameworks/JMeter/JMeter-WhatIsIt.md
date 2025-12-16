@@ -11,7 +11,6 @@ Apache JMeter is an open-source GUI-based tool used for performance testing and 
 - Measures response times, throughput, and error rates.
 - Useful for web apps, APIs, databases, HTTP calls, FTP calls, web sockets, and more.
 
-
 ## Notes
 - Open-source and widely supported.
 - Has GUI and CLI options.
