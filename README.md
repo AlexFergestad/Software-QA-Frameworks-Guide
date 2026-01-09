@@ -7,3 +7,5 @@ A guide that allows me to list the pros and cons of each automation framework an
 ## TestNG
 
 ## JUnit
+
+## Pytest
