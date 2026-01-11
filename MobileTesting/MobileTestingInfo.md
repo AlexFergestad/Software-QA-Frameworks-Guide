@@ -14,3 +14,4 @@ For iOS:
 - Install XCode on your laptop (MacBook)
 
 For Android:
+- Install Android Studio on your laptop (Macbook)
