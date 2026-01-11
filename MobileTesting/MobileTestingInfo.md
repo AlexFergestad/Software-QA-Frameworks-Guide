@@ -12,3 +12,5 @@ If you go to PageSpeed Insights and use the Chrome Developer tools, you can test
 ## Testing Mobile Applications that are not running on HTTP
 For iOS:
 - Install XCode on your laptop (MacBook)
+
+For Android:
